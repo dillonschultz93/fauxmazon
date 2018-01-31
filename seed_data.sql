@@ -30,4 +30,4 @@ VALUES ("iPhone X", 'Cell Phones', 1000000.00, 1);
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("The Naturalist", 'Books', 6.99, 5);
 
-SELECT * FROM products
+SELECT * FROM products;
